@@ -288,8 +288,6 @@ while running:
                 if len(unselectedDie) == 0:
                     fullDieReset()
                 rollDice()
-            else:
-                print('cheater!')
 
         #End turn button
         if endTurnButton.draw(screen):
